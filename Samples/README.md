@@ -1,11 +1,14 @@
 # Kalipso Sample Projects
 Sample projects for Kalipso Studio from Sysdev
 
+### CSVTools
+This sample shows how to import and export CSV files with header to and from a table, respectively.
+
 ### Calendar
 This sample illustrates how to use a looper to show a calendar.
 
 ### GPSData
-This sample uses device's location sensor to display location data
+This sample uses device's location sensor to display location data. It also shows the current location in a map using HTMLViewer component.
 
 ### GetAllFilesPermission
 This sample shows how to request all files access permission on Android 11 and higher.
