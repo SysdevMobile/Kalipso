@@ -20,5 +20,7 @@ This sample uses file.io's API to exemplify the use of HTTP Request action to li
 This samples uses HTMLViewer control to display animated GIFs
 
 ### HashTool
-
 This sample uses JavaScript to hash a string using one of the available algorithms
+
+### Weather
+This sample shows how to use HTTP Request action to access a Web Service that returns the weather of a specified city.
