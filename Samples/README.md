@@ -1,6 +1,10 @@
 # Kalipso Sample Projects
 Sample projects for Kalipso Studio from Sysdev
 
+### BarcodeTools
+
+This sample tests the several barcode scanning methods available in Kalipso (Native,Wedge,Zxing and Cortex)
+
 ### CSVTools
 This sample shows how to import and export CSV files with header to and from a table, respectively.
 
