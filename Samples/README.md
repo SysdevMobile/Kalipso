@@ -29,6 +29,9 @@ This samples uses HTMLViewer control to display animated GIFs
 ### HashTool
 This sample uses JavaScript to hash a string using one of the available algorithms
 
+### OAuth2
+This sample uses OAuth2 authentication to integrate with cloud services (Google Drive, Microsoft Onedrive and Dropbox) allowing to browse, upload, download and delete files and folders
+
 ### SocketTester
 This sample shows how to work with sockets to send and receive data.
 
