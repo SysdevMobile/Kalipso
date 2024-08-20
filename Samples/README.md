@@ -35,5 +35,9 @@ This sample uses OAuth2 authentication to integrate with cloud services (Google 
 ### SocketTester
 This sample shows how to work with sockets to send and receive data.
 
+### VoicePickingSample
+This sample shows how to work with voice features in Kalipso.
+
+
 ### Weather
 This sample shows how to use HTTP Request action to access a Web Service that returns the weather of a specified city.
